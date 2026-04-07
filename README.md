@@ -1,5 +1,5 @@
 <!-- Header wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=header&text=Sudharsan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full+Stack+Developer+%7C+Building+in+Public&descAlignY=60&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=header&text=sect55&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full+Stack+Developer+%7C+Building+in+Public&descAlignY=60&descAlign=50"/>
 
 <div align="center">
 
