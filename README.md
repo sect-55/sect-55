@@ -156,10 +156,4 @@ const developer = {
 
 *"Ship it, then improve it. The best code is code someone uses."*
 
-⭐ Star a repo if something looks interesting — it genuinely helps a fresher out.
 
-</div>
-
-⭐ If you like what I'm building — star a repo, it means a lot!
-
-</div>
