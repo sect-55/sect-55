@@ -1,10 +1,10 @@
 <!-- Header -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=111827&height=140&section=header&text=secT-55&fontSize=52&fontColor=4F46E5&animation=fadeIn&desc=systems+%7C+backend+%7C+clean+code&descAlignY=65&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=111827&height=140&section=header&text=secT-55&fontSize=52&fontColor=00E5A0&animation=fadeIn&desc=systems+%7C+backend+%7C+clean+code&descAlignY=65&descSize=18"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=20\&pause=1200\&color=4F46E5\&center=true\&vCenter=true\&width=800\&lines=full-stack+dev+focused+on+systems;next.js+%C2%B7+typescript+%C2%B7+postgresql;building+in+public+%40sect_55;thinking+before+typing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=20\&pause=1200\&color=00E5A0\&center=true\&vCenter=true\&width=800\&lines=full-stack+dev+focused+on+systems;next.js+%C2%B7+typescript+%C2%B7+postgresql;building+in+public+%40sect_55;thinking+before+typing)](https://git.io/typing-svg)
 
 <br/>
 
